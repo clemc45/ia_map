@@ -61,6 +61,7 @@ const App = () => {
                 {/* affichage des markers de la carte */}
                 <MapViewComponent />
             </MapView>
+            
 
             {/* Menu contextuel */}
             <ContextMenuModal
